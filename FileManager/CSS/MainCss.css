@@ -1,0 +1,158 @@
+﻿body 
+{
+    margin:0;
+}
+
+#background
+{
+    object-fit:cover;
+    object-position:center;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index:-100;
+}
+
+#current_path_contain
+{
+    margin: 10px;
+    height: 30px;
+}
+
+#current_path_contain > #backward_btn
+{
+    float: left;
+    cursor: pointer;
+}
+
+#current_path_contain > #current_path
+{
+    float: left;
+    min-width: 200px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+#jump_path_contain
+{
+    margin: 10px;
+    height: 30px;
+}
+
+#jump_path_contain > #jump_path_textbox
+{
+    float: left;
+    min-width: 230px;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: solid 1px white;
+    font-size: 20px;
+    color: white;
+}
+
+#jump_path_contain > #forward_btn
+{
+    float: left;
+    cursor: pointer;
+}
+
+#create_file_contain
+{
+    margin: 10px;
+    height: 30px;
+}
+
+#create_file_contain > #create_path_textbox
+{
+    float: left;
+    min-width: 230px;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: solid 1px white;
+    font-size: 20px;
+    color: white;
+}
+
+#create_file_contain > #create_file_btn
+{
+    float: left;
+    cursor: pointer;
+}
+
+#copy_file
+{
+    margin-bottom:30px;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    display:flex;
+}
+
+#copy_file > #copy_file_name
+{
+    width: 500px;
+}
+
+#copy_file > .paste_btn
+{
+    cursor: pointer;
+}
+
+#file_list
+{
+    margin: auto;
+}
+
+.file
+{
+    display: flex;
+}
+
+.file>.file_name
+{
+    font-size:20px;
+    color:white;
+    width:500px;
+    height:30px;
+    line-height:30px;
+    overflow:hidden;
+    cursor:pointer;
+}
+
+.file > .del_btn:active
+{
+    position: relative;
+    top: 1px;
+}
+
+.file > .move_btn:active
+{
+    position: relative;
+    top: 1px;
+}
+
+
+#file_content_contain
+{
+    width: 80vw;
+    margin: auto;
+}
+
+#file_content_contain > #file_content
+{
+    width: 80vw;
+    min-height:400px;
+    color: white;
+    word-break: break-all;
+    margin: auto;
+    background-color: rgba(255,255,255,0.1);
+    justify-content: center;
+}
+
+#file_content_contain>#save_file_btn
+{
+    cursor:pointer;
+}

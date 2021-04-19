@@ -1,0 +1,750 @@
+2021/4/5 19:50:25
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:50:27
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/5 19:50:28
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:50:29
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:50:30
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/5 19:50:31
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:50:32
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/5 19:51:29
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:51:39
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.CopyFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CopyFileHandler.ashx.cs:行号 22
+
+2021/4/5 19:51:40
+当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 FileManager.PasteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\PasteFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:51:43
+当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 FileManager.PasteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\PasteFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:51:45
+当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 FileManager.PasteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\PasteFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:52:21
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/5 19:52:22
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:24:44
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:24:45
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:24:46
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:24:48
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:24:49
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:24:50
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:24:55
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:24:55
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:24:57
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:26:26
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:26:27
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:26:28
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:26:35
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.WriteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\WriteFileHandler.ashx.cs:行号 25
+
+2021/4/6 8:26:37
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:26:38
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:27:32
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:27:33
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:27:36
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:27:38
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:27:39
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:27:42
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:27:43
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:27:46
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.DeleteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\DeleteFileHandler.ashx.cs:行号 31
+
+2021/4/6 8:29:00
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 29
+
+2021/4/6 8:29:05
+对路径“D:\123”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.IO.File.Create(String path)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 23
+
+2021/4/6 8:29:10
+对路径“D:\123”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.IO.File.Create(String path)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 23
+
+2021/4/6 8:29:10
+对路径“D:\123”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.IO.File.Create(String path)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 23
+
+2021/4/6 8:30:02
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:13
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 29
+
+2021/4/6 8:30:18
+对路径“D:\123”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.IO.File.Create(String path)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 23
+
+2021/4/6 8:30:26
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:28
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.DeleteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\DeleteFileHandler.ashx.cs:行号 31
+
+2021/4/6 8:30:29
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:30
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:30:31
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.DeleteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\DeleteFileHandler.ashx.cs:行号 31
+
+2021/4/6 8:30:36
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.CreateFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CreateFileHandler.ashx.cs:行号 29
+
+2021/4/6 8:30:38
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.CopyFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\CopyFileHandler.ashx.cs:行号 22
+
+2021/4/6 8:30:40
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:43
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.PasteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\PasteFileHandler.ashx.cs:行号 36
+
+2021/4/6 8:30:45
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.DeleteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\DeleteFileHandler.ashx.cs:行号 31
+
+2021/4/6 8:30:46
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:30:48
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:48
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:30:49
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 8:30:50
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 8:30:52
+无法找到指定文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 FileManager.PasteFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\PasteFileHandler.ashx.cs:行号 29
+
+2021/4/6 12:28:41
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:43
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:44
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 12:28:46
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:47
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 12:28:47
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.BackFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\BackFileHandler.ashx.cs:行号 35
+
+2021/4/6 12:28:48
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:50
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:52
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:53
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:28:55
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:29:39
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:29:41
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:29:42
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:29:44
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/6 12:29:45
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 C:\Users\Departed_Dream\Desktop\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
+2021/4/11 16:19:23
+正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.AbortCurrentThread()
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 FileManager.OpenFileHandler.ProcessRequest(HttpContext context) 位置 D:\Code\FileManager\FileManager\OpenFileHandler.ashx.cs:行号 34
+
