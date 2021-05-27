@@ -6,7 +6,7 @@ namespace MyException
 {
     public class MyExceptionHandler
     {
-        //张国庆修改1
+        //张国庆修改5
         public static string SaveException(Exception exception)
         {
             FileInfo fileInfo = new FileInfo(AppDomain.CurrentDomain.BaseDirectory + "\\Log.txt");
