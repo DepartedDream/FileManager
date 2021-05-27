@@ -11,7 +11,7 @@ namespace FileManager
     public class WriteFileHandler : IHttpHandler,IRequiresSessionState
     {
         public bool IsReusable { get { return false; } }
-
+        //刘庆科修改1
         public void ProcessRequest(HttpContext context)
         {
             try 
